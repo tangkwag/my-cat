@@ -1,5 +1,11 @@
+.head{
+    background-color:rgb(110, 36, 125);
+    padding: 10px;
+    text-align: center
+}
+
 .box{
-    background-color: lightblue;
+    background-color: rgb(223, 160, 239);
     padding: 20px;
     flex: 33.33%;
 
@@ -12,12 +18,6 @@
 
 .text{
     font-size: 30px;
-}
-
-.head{
-    background-color:lightskyblue;
-    padding: 10px;
-    text-align: center
 }
 
 .img1{
@@ -46,6 +46,6 @@
 
 
 .footer{
-    background-color:lightgray;
+    background-color:rgb(180, 91, 187);
     padding: 1px;
 }
