@@ -1,0 +1,58 @@
+.box{
+    background-color: lightblue;
+    padding: 20px;
+    flex: 33.33%;
+    padding-bottom: 69px;
+}
+
+.title{
+    color: deeppink;
+    font-size: 60px;
+}
+
+.text{
+    font-size: 30px;
+}
+
+.head{
+    background-color:lightskyblue;
+    padding: 10px;
+    text-align: center
+}
+
+.img1{
+    width: 600px;
+    height: 300px;
+}
+
+.button{
+    color: white;
+    background-color: palevioletred;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 45%;
+    float: right;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.back{
+    width: 150px;
+}
+
+.row{
+    display: flex;
+}
+
+.row-img{    
+    text-align: center
+
+}
+
+.footer{
+    background-color:lightgray;
+    padding: 1px;
+}
